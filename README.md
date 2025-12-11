@@ -17,3 +17,7 @@ Programming Language:Dart,The core language used for the application build.
 Framework:Flutter The platform used for UI development.
 Data Source:News API The external source for fetching updated news data.
 Tools:"Git, GitHub",Version control and collaboration platform.
+
+
+
+<img width="704" height="1472" alt="Gemini_Generated_Image_wpglxewpglxewpgl" src="https://github.com/user-attachments/assets/44211a0c-da3f-4c5c-a921-3583b53b0d02" />
